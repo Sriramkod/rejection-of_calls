@@ -1,10 +1,4 @@
 #include<stdio.h>
-int new-branch(){
-printf("This is new-branch");
+int main(){
+printf("This is a file");
 }
-int main()
-{
-	printf("File1 in master branch");
-}
-
-
